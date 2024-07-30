@@ -11,6 +11,7 @@ Mint Classics Company, a retailer of classic model cars and other vehicles, is l
 To make a data-driven decision on closing one of their storage facilities while ensuring continued timely service to customers. 
 
 The specific objectives are:
+
 **1. Reorganizing or Reducing Inventory**: To identify ways to manage and reduce the current inventory without impacting the ability to ship products to customers within 24 hours of an order being placed.
 
 **2. Maintaining Timely Service**: To ensure that any changes to the storage or inventory management do not affect the company's service level agreement with customers.
