@@ -11,27 +11,27 @@ Mint Classics Company, a retailer of classic model cars and other vehicles, is l
 To make a data-driven decision on closing one of their storage facilities while ensuring continued timely service to customers. 
 
 The specific objectives are:
-**Reorganizing or Reducing Inventory**: To identify ways to manage and reduce the current inventory without impacting the ability to ship products to customers within 24 hours of an order being placed.
+**1. Reorganizing or Reducing Inventory**: To identify ways to manage and reduce the current inventory without impacting the ability to ship products to customers within 24 hours of an order being placed.
 
-**Maintaining Timely Service**: To ensure that any changes to the storage or inventory management do not affect the company's service level agreement with customers.
+**2. Maintaining Timely Service**: To ensure that any changes to the storage or inventory management do not affect the company's service level agreement with customers.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 **Approach :**
 To address this business challenge, I will:
 
-Explore Current Inventory: Analyze the products currently stored in our facilities to understand their storage locations, inventory levels, and sales performance.
+1. Explore Current Inventory: Analyze the products currently stored in our facilities to understand their storage locations, inventory levels, and sales performance.
 
-Identify Key Influencing Factors: Determine factors impacting inventory reorganization or reduction, such as sales trends, inventory turnover, and storage costs.
+2. Identify Key Influencing Factors: Determine factors impacting inventory reorganization or reduction, such as sales trends, inventory turnover, and storage costs.
 
-Provide Data-Driven Recommendations: Offer suggestions based on analytical insights to reduce or reorganize inventory effectively.
+3. Provide Data-Driven Recommendations: Offer suggestions based on analytical insights to reduce or reorganize inventory effectively.
 
 I will answer the following specific questions through SQL queries:
 
-Storage Locations: Where are items stored, and if rearranged, could we eliminate a warehouse?
+1. Storage Locations: Where are items stored, and if rearranged, could we eliminate a warehouse?
 
-Inventory and Sales Relationship: How are inventory numbers related to sales figures? Are the inventory counts appropriate for each item?
+2. Inventory and Sales Relationship: How are inventory numbers related to sales figures? Are the inventory counts appropriate for each item?
 
-Non-Moving Items: Are there items that are not selling and could be candidates for removal from the product line?
+3. Non-Moving Items: Are there items that are not selling and could be candidates for removal from the product line?
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
