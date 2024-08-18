@@ -1,4 +1,4 @@
-# WareHouse-EmpAnalysis : Summary
+# Warehouse-EmpAnalysis : Summary
 
 The project showcases Data Analysis skills using MySQL, the ‘mintclassics’ database provided by Coursera. 
 This project covers a wide range of KPIs being measured including Total Revenue, Average Order Value as a part of financial metrics, inventory management (inventory turnover ratio, days inventory outstanding), customer analysis and other operational matrices such as order fulfilment rate, sales per employee, and the order status. These matrices will help monitor, evaluate and improve business performance.
@@ -36,8 +36,16 @@ I will answer the following specific questions through SQL queries:
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
 **My exploratory data analysis will involve:**
 
 Importing and analyzing the provided database to uncover patterns and themes relevant to inventory management.
 Using SQL queries to extract meaningful data and insights.
 Sharing my findings to support the decision-making process for closing a storage facility while maintaining efficient customer service.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+**Addressed Solution:**
+The analysis focused on identifying the disparities in inventory levels and sales performance across the warehouses. A key recommendation was to redistribute inventory from underperforming warehouses (North and West) to higher-performing ones (East and South). This strategy aimed to optimize inventory levels, improve turnover ratios, and ultimately enhance overall sales and profitability.
+
+This solution was designed to reduce warehouse operations by over 25% while addressing the sales decline by ensuring that inventory was more aligned with demand in different regions.
